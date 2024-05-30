@@ -1,2 +1,2 @@
-# webaidpro
-Web Aid Pro is a software company
+# WebAidPro
+`Web Aid Pro` is a software company
