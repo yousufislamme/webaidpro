@@ -1,4 +1,7 @@
-
+export const metadata = {
+  title: "Service",
+  description: "welcome to webaidpro",
+};
 const Service = () => {
   return (
      <div className="px-10 h-screen">
