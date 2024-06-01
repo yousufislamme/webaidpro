@@ -2,9 +2,9 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <div className="flex justify-between items-center px-10 backdrop-blur-md py-2 bg-green-400">
+    <div className="flex justify-between items-center px-10 backdrop-blur-md py-2 bg-slate-800 text-white">
       <div>
-        <Link href="/">
+        <Link className="font-bold" href="/">
               WebAidPro
         </Link>
       </div>
